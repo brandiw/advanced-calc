@@ -1,0 +1,32 @@
+.calc-container {
+  background-color: #eee;
+  width: 200px;
+}
+
+.calc-row {
+  display: block;
+  text-align: center;
+}
+
+.calc-button {
+  background-color: #ccc;
+  font-size: 20px;
+  width: 35px;
+  height: 35px;
+}
+
+.calc-button-clear {
+  background-color: #ccc;
+  font-size: 20px;
+  width: 70px;
+  height: 35px;
+}
+
+.error {
+  color: red;
+}
+
+
+.App {
+  text-align: center;
+}
